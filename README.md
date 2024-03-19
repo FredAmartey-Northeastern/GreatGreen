@@ -19,7 +19,7 @@ Great-Green is a pioneering web application designed to address the critical cha
 * Promote Biodiversity: Focus on indigenous and diverse species to enrich local ecosystems.
 * Contribute to Climate Action: Leverage reforestation and sustainable agriculture to sequester carbon and combat climate change.
   
-How It Works
+# How It Works
 * Seed Selection: Users choose seeds based on their planting experience and receive detailed cultivation instructions.
 * Progress Sharing: Users upload photos of their plants at weekly intervals, sharing their journey with the community.
 * Yield Sharing: Upon harvest, users contribute 20% of their seeds or crops back to the project or partner organizations, helping to perpetuate the cycle of growth and support further reforestation projects.
@@ -33,10 +33,10 @@ How It Works
 # Contributing
 Great-Green invites contributions from a diverse range of individuals and organizations. Whether it's through coding, educating, or gardening, your participation can help drive global change. See our contributing guidelines for more details.
 
-License
+# License
 Great-Green is open-source, available under the MIT License, promoting free and collaborative development and distribution.
 
-Join the Movement
+# Join the Movement
 Be a part of Great-Green's mission to transform desertified lands into thriving ecosystems. Your involvement can lead to a greener planet and a more sustainable future.
 
 # Team Members
