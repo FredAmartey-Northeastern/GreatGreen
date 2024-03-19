@@ -20,14 +20,16 @@ Goals
 * Contribute to Climate Action: Leverage reforestation and sustainable agriculture to sequester carbon and combat climate change.
   
 How It Works
-Seed Selection: Users choose seeds based on their planting experience and receive detailed cultivation instructions.
-Progress Sharing: Users upload photos of their plants at weekly intervals, sharing their journey with the community.
-Yield Sharing: Upon harvest, users contribute 20% of their seeds or crops back to the project or partner organizations, helping to perpetuate the cycle of growth and support further reforestation projects.
+* Seed Selection: Users choose seeds based on their planting experience and receive detailed cultivation instructions.
+* Progress Sharing: Users upload photos of their plants at weekly intervals, sharing their journey with the community.
+* Yield Sharing: Upon harvest, users contribute 20% of their seeds or crops back to the project or partner organizations, helping to perpetuate the cycle of growth and support further reforestation projects.
+  
 Technology Stack
-Interactive UI: React.js for an engaging frontend.
-Efficient Backend: Node.js with Express for server-side logic.
-Scalable Data Storage: MongoDB for data management.
-Geographic Visualizations: Integration with OpenStreetMap
+* Interactive UI: React.js for an engaging frontend.
+* Efficient Backend: Node.js with Express for server-side logic.
+* Scalable Data Storage: MongoDB for data management.
+* Geographic Visualizations: Integration with OpenStreetMap
+  
 Contributing
 Great-Green invites contributions from a diverse range of individuals and organizations. Whether it's through coding, educating, or gardening, your participation can help drive global change. See our contributing guidelines for more details.
 
