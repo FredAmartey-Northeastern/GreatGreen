@@ -40,6 +40,6 @@ Join the Movement
 Be a part of Great-Green's mission to transform desertified lands into thriving ecosystems. Your involvement can lead to a greener planet and a more sustainable future.
 
 #Team Members
-Fred Amartey
-Hitesh Krishnappa
-Bhargav Chickmagalur Nanjundappa
+- Fred Amartey
+- Hitesh Krishnappa
+- Bhargav Chickmagalur Nanjundappa
